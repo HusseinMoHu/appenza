@@ -5,7 +5,7 @@ This is a Node.js project that how to create a simple order checkout process for
 ## Getting Started
 1. Clone the repository
    ```sh
-   git clone https://github.com/husseinmohu/appenza.git
+   git clone https://github.com/HusseinMoHu/appenza.git
    ```
 2. Install NPM packages
    ```sh
